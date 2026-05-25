@@ -86,7 +86,7 @@ PING
 <img width="807" height="581" alt="image" src="https://github.com/user-attachments/assets/80c966fb-b39a-48c1-8cb7-36d8c102e687" />
 
 TRACET
-<img width="814" height="109" alt="image" src="https://github.com/user-attachments/assets/2bbf666a-3d59-47ff-a9d9-da5b24c5887c" /
+<img width="814" height="109" alt="image" src="https://github.com/user-attachments/assets/2bbf666a-3d59-47ff-a9d9-da5b24c5887c" />
 
 
 ## Result
